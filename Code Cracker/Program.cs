@@ -5,7 +5,7 @@ class SubstitutionCipher
     static void Main()
     {
         string key = "jfkgotmyvhspcandxlrwebquiz";
-        string plainText = "Hi Joshclone welcome to Bezao task3 encryption and decryption program";
+        string plainText = "hi joshclone welcome to bezao task encryption and decryption program";
         string cipherText = Encrypt(plainText, key);
         string decryptedText = Decrypt(cipherText, key);
 
