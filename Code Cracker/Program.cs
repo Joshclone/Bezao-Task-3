@@ -73,10 +73,14 @@ namespace ConsoleApp
                 cypher = rsa.Encrypt(text);
                 Console.WriteLine($"Encrypted Text: {cypher}");
             }
-            Console.WriteLine("press any key to decrypt text");
+            Console.WriteLine($"press any key to decrypt text \n");
             Console.ReadLine();
 
             var plainText = rsa.Decrypt(cypher);
+
+            Console.WriteLine($"Decrypted Message: {plainText}");
+            Console.ReadLine();
+
         }
     }
 }
