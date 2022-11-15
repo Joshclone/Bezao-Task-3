@@ -1,0 +1,60 @@
+/home/joshua/Desktop/BEZAO/bin/Debug/net6.0/BEZAO
+/home/joshua/Desktop/BEZAO/bin/Debug/net6.0/BEZAO.deps.json
+/home/joshua/Desktop/BEZAO/bin/Debug/net6.0/BEZAO.runtimeconfig.json
+/home/joshua/Desktop/BEZAO/bin/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/BEZAO/bin/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.csproj.AssemblyReference.cache
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.AssemblyInfoInputs.cache
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.AssemblyInfo.cs
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/refint/BEZAO.dll
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/BEZAO.genruntimeconfig.cache
+/home/joshua/Desktop/BEZAO/obj/Debug/net6.0/ref/BEZAO.dll
+/home/joshua/Desktop/2. Guessing Game/bin/Debug/net6.0/BEZAO
+/home/joshua/Desktop/2. Guessing Game/bin/Debug/net6.0/BEZAO.deps.json
+/home/joshua/Desktop/2. Guessing Game/bin/Debug/net6.0/BEZAO.runtimeconfig.json
+/home/joshua/Desktop/2. Guessing Game/bin/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/2. Guessing Game/bin/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.csproj.AssemblyReference.cache
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.AssemblyInfoInputs.cache
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.AssemblyInfo.cs
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/refint/BEZAO.dll
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/BEZAO.genruntimeconfig.cache
+/home/joshua/Desktop/2. Guessing Game/obj/Debug/net6.0/ref/BEZAO.dll
+/home/joshua/Desktop/Number Converter/bin/Debug/net6.0/BEZAO
+/home/joshua/Desktop/Number Converter/bin/Debug/net6.0/BEZAO.deps.json
+/home/joshua/Desktop/Number Converter/bin/Debug/net6.0/BEZAO.runtimeconfig.json
+/home/joshua/Desktop/Number Converter/bin/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/Number Converter/bin/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.csproj.AssemblyReference.cache
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.AssemblyInfoInputs.cache
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.AssemblyInfo.cs
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/refint/BEZAO.dll
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/BEZAO.genruntimeconfig.cache
+/home/joshua/Desktop/Number Converter/obj/Debug/net6.0/ref/BEZAO.dll
+/home/joshua/Desktop/Code Cracker/bin/Debug/net6.0/BEZAO
+/home/joshua/Desktop/Code Cracker/bin/Debug/net6.0/BEZAO.deps.json
+/home/joshua/Desktop/Code Cracker/bin/Debug/net6.0/BEZAO.runtimeconfig.json
+/home/joshua/Desktop/Code Cracker/bin/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/Code Cracker/bin/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.csproj.AssemblyReference.cache
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.AssemblyInfoInputs.cache
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.AssemblyInfo.cs
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.dll
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/refint/BEZAO.dll
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.pdb
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/BEZAO.genruntimeconfig.cache
+/home/joshua/Desktop/Code Cracker/obj/Debug/net6.0/ref/BEZAO.dll
