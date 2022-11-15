@@ -4,11 +4,6 @@ namespace TestSolution;
 
 class leapyearSolution
 {
-    public static void Main(String[] args)
-    {
-
-        PrintNext20LeapYears();
-    }
 
     private static void PrintNext20LeapYears()
 
@@ -29,6 +24,11 @@ class leapyearSolution
 
 
 
+    public static void Main(String[] args)
+    {
+
+        PrintNext20LeapYears();
+    }
 
 }
 
